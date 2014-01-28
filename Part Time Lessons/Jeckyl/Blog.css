@@ -1,0 +1,37 @@
+
+
+body {
+
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	right top,
+	color-stop(0, #6305DD),
+	color-stop(0.59, #5513AB)
+);
+background-image: -o-linear-gradient(right, #6305DD 0%, #5513AB 59%);
+background-image: -moz-linear-gradient(right, #6305DD 0%, #5513AB 59%);
+background-image: -webkit-linear-gradient(right, #6305DD 0%, #5513AB 59%);
+background-image: -ms-linear-gradient(right, #6305DD 0%, #5513AB 59%);
+background-image: linear-gradient(to right, #6305DD 0%, #5513AB 59%);
+
+}
+
+h1, h4 {
+	
+	text-align:center;
+	font:Gravitas+One; 
+}
+
+.navbar {
+	text-align:center;
+}
+
+h2	{
+	border: solid 2px white;
+	display: inline-block;
+	padding:10px;
+}
+
+
+
